@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alok Kumar 👋</h1>
-<h3 align="center">Python Developer | AI Engineer | Full-Stack Developer (Django & Flask)</h3>
+<h3 align="center">Python Developer | AI Engineer(Python & ML/AL) | Full-Stack Developer (Django & Flask)</h3>
 
 <p align="center">
   <a href="https://github.com/Alokkumar12kk/">
